@@ -22,9 +22,6 @@ Esta es una aplicación de escritorio clásica para computadora que realiza oper
 * *Gerardo Cerón* - Estudiante de Ingeniería en Desarrollo de Software (UVEG).
 * GitHub: [@Gerardo-Ceron](https://github.com)
 * # 🪖 Calculadora Lysifix App
-© 2026 Gerardo Cerón. Todos los derechos reservados.
-
-### 🛡️ Aviso de Propiedad Intelectual
-Este repositorio contiene código fuente de mi propiedad exclusiva y forma parte de mi portafolio personal de desarrollo. 
+© 2026 Gerardo Cerón. 
 
 
