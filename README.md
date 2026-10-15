@@ -1,27 +1,24 @@
-# 💻 Mi Primera Calculadora de Escritorio
+# 💻 Desktop Calculator App
 
-Esta es una aplicación de escritorio clásica para computadora que realiza operaciones matemáticas fundamentales. Es uno de mis primeros proyectos utilizando Python para comprender la lógica de programación y la creación de entornos interactivos.
+This is a classic desktop application designed to perform standard arithmetic operations. Developed during the early stages of my software engineering journey, this project served as a foundational exercise to master core programming logic, user interface structures, and interactive local environments in Python.
 
----
+Note: While my current specialization focuses heavily on backend architecture, API integrations (like Mailgun), web frameworks (Flask/Django), and automated data pipelines, this repository remains active to showcase my background in programmatic problem-solving and software development evolution.
 
-## 🚀 Características
-* *Cálculos Aritméticos:* Soporte completo para sumas, restas, multiplicaciones y divisiones y porcentaje.
-* *Entorno de Escritorio:* Diseñado para ejecutarse localmente de forma rápida y ligera.
-* *Estructura Limpia:* Código organizado de manera sencilla para facilitar su mantenimiento y aprendizaje.
+## 🚀 Features
 
-<img width="280" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/077f9797-adc9-48cc-9f30-f8320a0e9dd2" />
+* *Arithmetic Calculations:* Full support for addition, subtraction, multiplication, division, and percentage calculations.
+* *Desktop Environment:* Built to run locally on desktop operating systems, ensuring quick and lightweight execution.
+* *Clean Structure:* Code organized in a straightforward manner to facilitate initial learning, readability, and maintenance.
 
+## 🛠️ Tech Stack
 
-## 🛠️ Tecnologías y Herramientas Utilizadas
-* *Lenguaje:* [Python](https://python.org)
-* *Librería de Interfaz (opcional):* Tkinter / CustomTkinter.
+* *Language:* Python
+* *GUI Framework:* Tkinter / Standard Desktop GUI Libraries
 
----
-
-## 👨‍💻 Autor
-* *Gerardo Cerón* - Estudiante de Ingeniería en Desarrollo de Software (UVEG).
+## 👨‍💻 Author
+* *Gerardo Cerón* 
 * GitHub: [@Gerardo-Ceron](https://github.com)
-* # 🪖 Calculadora Lysifix App
+* # 🪖 Desktop Calculator Python
 © 2026 Gerardo Cerón. 
 
 
