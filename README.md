@@ -15,10 +15,6 @@ Note: While my current specialization focuses heavily on backend architecture, A
 * *Language:* Python
 * *GUI Framework:* Tkinter / Standard Desktop GUI Libraries
 
-## 👨‍💻 Author
-* *Gerardo Cerón* 
-* GitHub: [@Gerardo-Ceron](https://github.com)
-* # 🪖 Desktop Calculator Python
-© 2026 Gerardo Cerón. 
+
 
 
